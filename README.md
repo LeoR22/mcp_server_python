@@ -127,3 +127,12 @@ Si tu servidor no es detectado por Claude Desktop:
 ## Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+## Contacto
+
+- Leandro Rivera: <leo.232rivera@gmail.com>
+- Linkedin: <https://www.linkedin.com/in/leandrorivera/>
+
+### ¡Feliz Codificación! 🚀
+
+Si encuentras útil este proyecto, ¡dale una ⭐ en GitHub! 😊

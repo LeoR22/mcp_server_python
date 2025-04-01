@@ -1,6 +1,7 @@
 # Ejemplo de Servidor MCP
 
-Este repositorio contiene una implementación de un servidor Model Context Protocol (MCP) con fines educativos. Este código demuestra cómo construir un servidor MCP funcional que puede integrarse con varios clientes de modelos de lenguaje (LLM).
+Este repositorio contiene una implementación de un servidor Model Context Protocol (MCP). 
+Este código demuestra cómo construir un servidor MCP funcional que puede integrarse con varios clientes de modelos de lenguaje (LLM).
 
 
 ## ¿Qué es MCP?
